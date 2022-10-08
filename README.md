@@ -2,7 +2,7 @@
 
 <img src="src/assets/preview.png"/>
 
-- Alicação busca de canções e letras utilizando a API do Shazam e uma API de Geo Localização para listar as top musicas do seu pais.
+- Aplicação de busca de canções e letras utilizando a API do Shazam e uma API de Geo Localização para listar as top musicas do seu pais.
 - O usuário pode ouvir uma prévia da musica
 - O usuário pode ver a letra de uma canção clicando no nome da mesma
 - O usuário pode ver informações sobre o cantor
